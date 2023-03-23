@@ -1,2 +1,2 @@
-# Academicos
-Repositorio para exposiçao de trabalhos academicos.
+# Readme
+Repositorio púplico para exposiçao de trabalhos / atividades academicas.
