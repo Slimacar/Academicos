@@ -1,2 +1,2 @@
 # Readme
-Repositorio púplico para exposiçao de trabalhos / atividades academicas.
+Repositorio público para exposiçao de trabalhos / atividades academicas.
