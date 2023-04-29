@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net" modified="2023-04-29T13:16:42.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dVkfRk5qmYHCvVfon4cs" version="21.2.3" type="device">
+  <diagram name="Page-1" id="9V7f4j9fhRp4Q6rwtmPc">
+    <mxGraphModel dx="1034" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=60;entryDy=0;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--1" target="h5JEBxSxMUaj8eWoaG7--3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Inicio&lt;/font&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="260" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Fim&lt;/font&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="380" y="1370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h5JEBxSxMUaj8eWoaG7--3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&#39;Campanha de Vacinação - PuppyBel!&#39;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.206;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--8" target="h5JEBxSxMUaj8eWoaG7--12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&#39;Qual a espécie do seu pet?&#39;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--10" target="h5JEBxSxMUaj8eWoaG7--18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--59" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="h5JEBxSxMUaj8eWoaG7--15" vertex="1" connectable="0">
+          <mxGeometry x="-0.3742" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--10" target="h5JEBxSxMUaj8eWoaG7--16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--60" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="h5JEBxSxMUaj8eWoaG7--58" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;especie == &quot;cachorro&quot;, &quot;cao&quot;, &quot;canis&quot;, &quot;gato&quot;, &quot;felino&quot;&lt;/font&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h5JEBxSxMUaj8eWoaG7--12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;especie&lt;/font&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=80;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--16" target="h5JEBxSxMUaj8eWoaG7--23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271.9900000000002" y="745" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="145" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;Desculpe, a campanha de vacinação não&lt;br&gt;&amp;nbsp;atende {especie}.&quot;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="410" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h5JEBxSxMUaj8eWoaG7--18" target="h5JEBxSxMUaj8eWoaG7--19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Qual o nome &lt;br&gt;do seu &lt;br&gt;{especie}?&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h5JEBxSxMUaj8eWoaG7--19" target="12jyeS9aEl7lowK6N5On-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;nome&lt;/font&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="550" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.208;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="h5JEBxSxMUaj8eWoaG7--25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329.95" y="1085" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--23" value="&quot;Há mais animais/&lt;br&gt;&amp;nbsp;na fila para&lt;br&gt;&amp;nbsp;vacinar? (s/n) &quot;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1030" width="130.05" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h5JEBxSxMUaj8eWoaG7--25" target="h5JEBxSxMUaj8eWoaG7--27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--25" value="opcao" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289.95" y="1120" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=-0.064;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--27" target="h5JEBxSxMUaj8eWoaG7--37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="1215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--39" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="h5JEBxSxMUaj8eWoaG7--38" vertex="1" connectable="0">
+          <mxGeometry x="-0.2072" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--27" target="h5JEBxSxMUaj8eWoaG7--8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="1215" />
+              <mxPoint x="60" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--72" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="h5JEBxSxMUaj8eWoaG7--71" vertex="1" connectable="0">
+          <mxGeometry x="-0.8983" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--27" value="s/n" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289.95" y="1185" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h5JEBxSxMUaj8eWoaG7--31" target="h5JEBxSxMUaj8eWoaG7--45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--31" value="&lt;br&gt;Espécie: {especie},&lt;br&gt;Nome: {nome},&lt;br&gt;Número: {pets_vacinados}" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="313.95" y="730" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" parent="1" source="h5JEBxSxMUaj8eWoaG7--37" target="h5JEBxSxMUaj8eWoaG7--2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--37" value="&quot;A campanha foi&lt;br&gt;&amp;nbsp;finalizada.&lt;br&gt;Total de animais vacinados:&quot;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1270" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h5JEBxSxMUaj8eWoaG7--45" target="12jyeS9aEl7lowK6N5On-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h5JEBxSxMUaj8eWoaG7--45" target="h5JEBxSxMUaj8eWoaG7--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--45" value="for i in range(1,4):" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="820" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h5JEBxSxMUaj8eWoaG7--63" target="h5JEBxSxMUaj8eWoaG7--23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1060" />
+              <mxPoint x="530" y="1005" />
+              <mxPoint x="330" y="1005" />
+              <mxPoint x="330" y="1025" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h5JEBxSxMUaj8eWoaG7--63" value="&#39;{nome} foi vacinado(a) com sucesso!&#39;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-1" value="pets_vacinados = 0" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="369.95" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12jyeS9aEl7lowK6N5On-2" target="h5JEBxSxMUaj8eWoaG7--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-2" value="pets_vacinados += 1" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="12jyeS9aEl7lowK6N5On-6" target="h5JEBxSxMUaj8eWoaG7--45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="950" />
+              <mxPoint x="510" y="845" />
+              <mxPoint x="531" y="845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12jyeS9aEl7lowK6N5On-6" value="vacina &amp;lt;{i}&amp;gt; - OK!" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="910" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
